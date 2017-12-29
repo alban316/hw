@@ -1,4 +1,7 @@
 ##Overview
+A simple "hello world" example using CMake.
+
+##How-To
 
 1. Create a folder, e.g. hw
 1. Create your code in this folder, e.g. hw/hw.cpp

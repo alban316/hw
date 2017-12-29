@@ -1,7 +1,7 @@
-##Overview
+## Overview
 A simple "hello world" example using CMake.
 
-##How-To
+## How-To
 
 1. Create a folder, e.g. hw
 1. Create your code in this folder, e.g. hw/hw.cpp
@@ -34,7 +34,7 @@ cmake ..
 make
 ```
 
-##References
+## References
 The following is about the simplest, most straight-forward tutorial I've found:
 
 http://derekmolloy.ie/hello-world-introductions-to-cmake
